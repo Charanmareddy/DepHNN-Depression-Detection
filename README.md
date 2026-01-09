@@ -77,4 +77,4 @@ The model was trained on EEG data with the following specifications:
 * **Multi-Modal Integration:** Combining EEG with Heart Rate Variability (HRV) and facial micro-expressions for holistic diagnosis.
 
 ## 👥 Authors
-* **[Your Name]** - *Lead Developer*
+* **Mareddy Charan** - *Lead Developer*
